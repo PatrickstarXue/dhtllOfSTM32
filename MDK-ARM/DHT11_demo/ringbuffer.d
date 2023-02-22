@@ -1,0 +1,9 @@
+dht11_demo\ringbuffer.o: ..\Utils\ringbuffer.c
+dht11_demo\ringbuffer.o: ..\Utils\ringBuffer.h
+dht11_demo\ringbuffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+dht11_demo\ringbuffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+dht11_demo\ringbuffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+dht11_demo\ringbuffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+dht11_demo\ringbuffer.o: ..\Utils\common.h
+dht11_demo\ringbuffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+dht11_demo\ringbuffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
